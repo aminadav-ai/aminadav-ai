@@ -10,9 +10,9 @@ I build working software fast: browser simulations, automation scripts, edge Saa
 ### 🚀 Featured Projects
 
 - **[ecoli.bio](https://github.com/aminadav-ai/ecoli.bio)** ([Live App](https://ecoli.bio)) — Interactive scientific SaaS simulating *E. coli* central carbon metabolism (`iJO1366`). Built with **Cloudflare Workers**, **Durable Objects**, **D1 (SQLite)**, **WebAssembly (HiGHS LP solver)**, **PixiJS**, Google OAuth, and a context-aware **Gemini AI** metabolic assistant.
-- **[NN-Football](https://github.com/aminadav-ai/NN-Football)** ([Live Demo](https://aminadav-ai.github.io/NN-Football/)) — 2D Neuroevolution Football Simulator where autonomous agents learn to play football via custom neural networks and genetic algorithms written from scratch in vanilla JavaScript, HTML5 Canvas, and Web Workers.
-- **[Behavior-Evolution](https://github.com/aminadav-ai/Behavior-Evolution)** ([Live Demo](https://aminadav-ai.github.io/Behavior-Evolution/)) — Genetic algorithm and neural behavior simulator exploring how mutations in brain parameters shape survival strategies.
-- **LLM Compression & Reinforcement Learning Research** — Structured MLP pruning on Llama-3.2-1B (tracking perplexity vs. compression on RunPod GPUs) and custom RL environments with **Gymnasium + PyBullet + PPO**.
+- **[Neural-Futsal](https://github.com/aminadav-ai/Neural-Futsal)** ([Live Demo](https://aminadav-ai.github.io/Neural-Futsal/)) — 2.5D Multi-Agent Tactical Futsal Simulator where 3v3 teams of autonomous Deep MLP agents (trained with Backpropagation / Adam and self-play policy fine-tuning) execute coordinated passes, dribbles, and shots in real time using vanilla JavaScript, HTML5 Canvas, and Web Workers.
+- **[ngzip-llm](https://github.com/aminadav-ai/ngzip-llm)** ([Live Benchmark](https://aminadav-ai.github.io/ngzip-llm/)) — Zero-Retraining LLM MLP Compression & Dynamic Neuron Prosthesis on `Llama-3.2-1B` (PyTorch / Hugging Face on RunPod GPUs), benchmarking `LECAP` gate pruning (25%–50% sparsity) and low-rank residual compensation on `WikiText-2`.
+- **[Behavior-Evolution](https://github.com/aminadav-ai/Behavior-Evolution)** ([Live Demo](https://aminadav-ai.github.io/Behavior-Evolution/)) — Interactive 2.5D predator-prey ecosystem simulator where sheep and lions evolve sensory-motor brain matrices over 1,000+ simulated hours (emergent pack hunting, flanking, and herd evasion).
 
 ---
 
